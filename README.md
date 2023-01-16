@@ -6,6 +6,8 @@
 
 ![1673870873279](image/README/1673870873279.png)  
 
+# [LIVE DEMO](https://natalya-safarevich-to-do.netlify.app/ "https://natalya-safarevich-to-do.netlify.app/")
+
 To-do app implemented by scratch on vanilla JavaScript, without using third party libraries.
 
 ## How to use
