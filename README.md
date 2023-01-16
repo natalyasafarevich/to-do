@@ -4,7 +4,7 @@
 
 ## Description
 
-![1673870873279](https://file+.vscode-resource.vscode-cdn.net/d%3A/currentProjects/gitHub/safarevichNatalya/to-do-app/image/README/1673870873279.png)  
+![1673870873279](https://file+.vscode-resource.vscode-cdn.net/d%3A/currentProjects/gitHub/safarevichNatalya/to-do-app/image/1673870873279.png)  
 
 To-do app implemented by scratch on vanilla JavaScript, without using third party libraries.
 
